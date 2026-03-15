@@ -29,6 +29,6 @@ Segmenté a los usuarios por su mes de adquisición para observar cuántos regre
 📊 Hallazgos Principales (Material Visual)
 
 <p align="center">
-  <img src="[img/tu_imagen.png](https://github.com/Antonio-Barrenechea/proyectos/embudo_general.png)" width="600" title="Embudo General">
+  <img src="Antonio-Barrenechea/proyectos/embudo_general.png)" width="600" title="Embudo General">
 </p>
 
